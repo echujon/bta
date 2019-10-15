@@ -3,7 +3,7 @@ title: Balance Through Art
 subtitle: Austin's Cool Website
 image: /img/bta_logo.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Balance Through Art
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
