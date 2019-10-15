@@ -1,7 +1,7 @@
 ---
 title: Balance Through Art
 subtitle: Austin's Cool Website
-image: /img/home-jumbotron.jpg
+image: /img/bta_logo.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
