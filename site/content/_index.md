@@ -11,8 +11,8 @@ blurb:
 intro:
   heading: What We Offer
   text: >-
-    Balance Through Art's logo is the educational tool that helps people
-    understand the "Life Cycle".  
+    Balance Through Art's logo is an educational tool that helps people
+    understand the "Life Cycle".   
 products:
   - image: img/illustrations-coffee.svg
     text: >-
