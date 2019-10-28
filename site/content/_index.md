@@ -1,21 +1,18 @@
 ---
 title: Balance Through Art
-subtitle: Austin's Cool Website
+subtitle: What's Your Art?
 image: /img/bta_logo.jpg
 blurb:
-  heading: Balance Through Art
+  heading: Who are We?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Balance Through Art is a Christ-centered brand and community that educates
+    people about the "Life Cycle" and encourages them to discover their
+    God-given art and to share it with the world.
 intro:
-  heading: What we offer
+  heading: What We Offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Balance Through Art's logo is the educational tool that helps people
+    understand the "Life Cycle".  
 products:
   - image: img/illustrations-coffee.svg
     text: >-
