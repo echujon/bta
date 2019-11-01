@@ -1,6 +1,6 @@
 ---
 title: Balance Through Art
-subtitle: ''
+subtitle: What's Your Art?
 image: /img/bta_logo.jpg
 blurb:
   heading: Who are We?
