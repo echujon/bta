@@ -24,11 +24,30 @@ products:
       Stickers! Spread the message of the "Life Cycle" and keeping one's life
       Balanced by centering on Christ.
 values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Our Mission
+  text: >+
+    At Balance Through Art, we simply want to ask everyone the same question,
+    "WHAT'S YOUR ART?"  We believe it is in the discovery and sharing of our
+    individual talents that individuals will wake up to their unique calling in
+    life, and our hope is that once awakened, artists will use their art to
+    honor their Creator and use their art like medicine to heal and uplift those
+    they share it with. 
+
+
+    Our Mission can be summed up in 1 Corinthians 12:4-7 which states:
+
+    4 There are different kinds of gifts, but the same Spirit distributes them.
+    5 There are different kinds of service, but the same Lord. 6 There are
+    different kinds of working, but in all of them and in everyone it is the
+    same God at work. 7 Now to each one the manifestation of the Spirit is given
+    for the common good.  (NIV)
+
+
+    While this passage speaks specifically of spiritual gifts, we believe that
+    God bestows different talents, abilities, and artistic expressions that
+    should all be used to glorify He who gave them.
+
+    Another passage in Corinthians states, "...whatever you do, do it all for
+    the glory of God." (1 Cor 10:31 NIV).
 ---
 
