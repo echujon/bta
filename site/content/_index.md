@@ -17,7 +17,7 @@ products:
   - image: img/illustrations-coffee.svg
     text: >-
       The t-shirt that started it all.  Given a hand-me-down silk screen press
-      and ink from an old Scout Master, we printed our first t-shirts in my
+      and ink from my old Boy Scout Master, we printed our first t-shirts in my
       parents garage in Marysville, OH.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
