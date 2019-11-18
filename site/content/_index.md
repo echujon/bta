@@ -1,6 +1,6 @@
 ---
 title: Balance Through Art
-subtitle: What's Your Art?
+subtitle: ''
 image: /img/bta_logo.jpg
 blurb:
   heading: Who are We?
@@ -25,7 +25,7 @@ products:
       Balanced by centering on Christ.
 values:
   heading: Our Mission
-  text: >+
+  text: >
     At Balance Through Art, we simply want to ask everyone the same question,
     "WHAT'S YOUR ART?"  We believe it is in the discovery and sharing of our
     individual talents that individuals will wake up to their unique calling in
