@@ -36,11 +36,12 @@ values:
 
     Our Mission can be summed up in 1 Corinthians 12:4-7 which states:
 
-    4 There are different kinds of gifts, but the same Spirit distributes them.
-    5 There are different kinds of service, but the same Lord. 6 There are
+
+    4. There are different kinds of gifts, but the same Spirit distributes them.
+    5. There are different kinds of service, but the same Lord. 6. There are
     different kinds of working, but in all of them and in everyone it is the
-    same God at work. 7 Now to each one the manifestation of the Spirit is given
-    for the common good.  (NIV)
+    same God at work. 7. Now to each one the manifestation of the Spirit is
+    given for the common good.  (NIV)
 
 
     While this passage speaks specifically of spiritual gifts, we believe that
